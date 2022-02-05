@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in data science, crytos and finances.
-- 🌱 I’m currently learning @ TheBridge - Data Scinece Bootcamp fulltime.
+- 🌱 I’m currently learning @ TheBridge - Data Scinece Bootcamp.
 - 📫 How to reach me soyelsimo at gmail.
 
 <!---
