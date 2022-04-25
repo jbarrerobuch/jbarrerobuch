@@ -1,7 +1,6 @@
 - 👋 Hi
-- 👀 I’m interested in data science, crytos and finances.
-- 🌱 I’m currently learning @ TheBridge - Data Scinece Bootcamp.
-- 📫 How to reach me soyelsimo at gmail.
+- 👀 I’m interested in data science, cryptos and finances.
+- 🌱 Learning @ my own pace.
 
 <!---
 soyelsimo/soyelsimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
